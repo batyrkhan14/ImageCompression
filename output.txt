@@ -1,0 +1,79 @@
+Image 1: 
+Compression time: 19.5892 seconds
+Compression ratio: 1.70054
+Decompression time: 8.11087 seconds
+
+Image 2: 
+Compression time: 20.2862 seconds
+Compression ratio: 1.3936
+Decompression time: 9.77042 seconds
+
+Image 3: 
+Compression time: 20.2042 seconds
+Compression ratio: 1.43322
+Decompression time: 9.52 seconds
+
+Image 4: 
+Compression time: 24.837 seconds
+Compression ratio: 0.983963
+Decompression time: 13.0053 seconds
+
+Image 5: 
+Compression time: 28.2951 seconds
+Compression ratio: 1.57749
+Decompression time: 11.7586 seconds
+
+Image 6: 
+Compression time: 26.6374 seconds
+Compression ratio: 1.95713
+Decompression time: 9.47474 seconds
+
+Image 7: 
+Compression time: 26.7053 seconds
+Compression ratio: 1.49629
+Decompression time: 12.6738 seconds
+
+Image 8: 
+Compression time: 27.4384 seconds
+Compression ratio: 1.63845
+Decompression time: 12.1102 seconds
+
+Image 9: 
+Compression time: 32.9462 seconds
+Compression ratio: 1.76695
+Decompression time: 11.2769 seconds
+
+Image 10: 
+Compression time: 17.2324 seconds
+Compression ratio: 1.59385
+Decompression time: 7.72718 seconds
+
+Image 11: 
+Compression time: 21.0107 seconds
+Compression ratio: 2.06552
+Decompression time: 8.55091 seconds
+
+Image 12: 
+Compression time: 17.6434 seconds
+Compression ratio: 1.70369
+Decompression time: 7.30598 seconds
+
+Image 13: 
+Compression time: 16.4828 seconds
+Compression ratio: 1.63943
+Decompression time: 7.44898 seconds
+
+Image 14: 
+Compression time: 24.1668 seconds
+Compression ratio: 1.65584
+Decompression time: 10.4019 seconds
+
+Image 15: 
+Compression time: 26.4065 seconds
+Compression ratio: 1.42656
+Decompression time: 13.2744 seconds
+
+Image 16: 
+Compression time: 28.0669 seconds
+Compression ratio: 1.45236
+Decompression time: 12.132 seconds

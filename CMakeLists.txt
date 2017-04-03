@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( robt310_orynkul )
+find_package( OpenCV REQUIRED )
+add_executable( robt310_orynkul robt310_orynkul.cpp )
+target_link_libraries( robt310_orynkul ${OpenCV_LIBS} )
